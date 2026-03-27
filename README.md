@@ -34,11 +34,16 @@
 
 ## 📊 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=SHRI-RAM007&show_icons=true&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHRI-RAM007&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SHRI-RAM007&theme=radical)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=SHRI-RAM007&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHRI-RAM007&layout=compact&theme=radical)
+
+---
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=SHRI-RAM007)
 
 ---
 
