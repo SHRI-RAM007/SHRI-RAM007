@@ -36,7 +36,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SHRI-RAM007&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHRI-RAM007&layout=compact&theme=radical)
+
 
 
 
