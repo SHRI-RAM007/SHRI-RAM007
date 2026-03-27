@@ -34,11 +34,11 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHRI-RAM007&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=SHRI-RAM007&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SHRI-RAM007&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHRI-RAM007&layout=compact&theme=radical)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=SHRI-RAM007&layout=compact&theme=radical)
 
 ---
 
