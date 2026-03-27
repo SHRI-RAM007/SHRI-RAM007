@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Stats# 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHRI-RAM007&show_icons=true&theme=radical)
 
